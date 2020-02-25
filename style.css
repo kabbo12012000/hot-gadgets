@@ -1,0 +1,48 @@
+.btn{
+   color: aliceblue;
+    background-image: linear-gradient(rgb(95, 84, 84),rgb(45, 34, 34));
+}
+.bg-color{
+    background-color:white;
+}
+.container{
+    margin-top: 100px;
+}
+.col-md-6{
+    
+
+}
+small{
+    color: rgb(238, 20, 20);
+}
+.price{
+   font-weight: bold;
+}
+.card{
+    text-align: center;
+}
+.carousel-item{
+    padding: 20p 40px;
+}
+a{
+    text-decoration: none;
+
+}
+.categories{
+    text-align: center;
+}
+.col-md-3{
+    align-self: center;
+    border-radius: 10px;
+
+}
+.col-md-3 h5{
+    text-align: center;
+
+}
+.col-md-3 img{
+    padding: 40px 40px;
+}
+footer{
+    text-align: center;
+}
